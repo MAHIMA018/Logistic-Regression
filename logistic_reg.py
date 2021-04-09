@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix
 from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt 
 
-os.chdir(r'C:\Users\MAHIMA\Downloads\machine_learning_tut\P14-Part3-Classification\Section 16 - Logistic Regression\Python')
+os.chdir(r'C:\Users\...')
 
 dataset = pd.read_csv('Social_Network_Ads.csv')
 #print(os.getcwd()) 
